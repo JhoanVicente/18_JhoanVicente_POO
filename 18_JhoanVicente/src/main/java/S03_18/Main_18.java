@@ -8,7 +8,7 @@ package S03_18;
  *
  * @author jhoan
  */
-public class App {
+public class Main_18 {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
