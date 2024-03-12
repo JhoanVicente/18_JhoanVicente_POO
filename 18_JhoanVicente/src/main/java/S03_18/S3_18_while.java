@@ -6,9 +6,9 @@ package S03_18;
 
 /**
  *
- * @author Lenovo
+ * @author jhoan
  */
-public class S03_18_while {
+public class S3_18_while {
 
     public static void main(String[] args) {
         // TODO code application logic here

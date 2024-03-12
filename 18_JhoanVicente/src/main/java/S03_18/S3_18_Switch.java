@@ -2,7 +2,7 @@ package S03_18;
 
 /**
 *
-* @author Lenovo
+* @author jhoan
 */
 public class S3_18_Switch {
 
